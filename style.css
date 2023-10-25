@@ -100,7 +100,7 @@ html{
 
 .home{
     display: flex;
-    background: url("1.jpg") no-repeat center;
+    background: url("11.jpg") no-repeat center;
     background-size: cover;
     height: 100vh;
     color: white;
@@ -353,19 +353,19 @@ section{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 90%;
+    width: 75%;
 }
 .skills-content .right .js::before{
-    width: 90%;
+    width: 30%;
 }
 .skills-content .right .php::before{
-    width: 90%;
+    width: 80%;
 }
 .skills-content .right .py::before{
-    width: 90%;
+    width: 75%;
 }
 .skills-content .right .mysql::before{
-    width: 90%;
+    width: 30%;
 }
 
 
