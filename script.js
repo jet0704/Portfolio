@@ -26,14 +26,14 @@ $(document).ready(function(){
 
 
     var typed=new Typed(".typing", {
-        strings: ["Student","Developer","Designer"],
+        strings: ["WEB DEVELOPER","GRAPHIC DESIGNER","CONTENT WRITER"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     })
 
     var typed=new Typed(".typing-2", {
-        strings: ["Student","Developer","Designer"],
+        strings: ["WEB DEVELOPER","GRAPHIC DESIGNER","CONTENT WRITER"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
